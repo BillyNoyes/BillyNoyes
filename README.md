@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Billy</h1>
-<h3 align="center">Creating the future of the web out of London 📍</h3>
+<h3 align="center">Creating the future of the web 📍</h3>
 
 - 💬 Ask me about **react, javascript**
 
