@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Billy</h1>
-<h3 align="center">Creating the future of Allergy and Intolerance Testing using Flutter📍</h3>
+<h3 align="center">Building the Future of E-Commerce 🚀</h3>
 
-- 💬 Ask me about **react, nextjs, javascript**
+- 💬 Ask me about **react, nextjs, javascript, shopify**
 
 - 📫 How to reach me **wbillypn@gmail.com**
 
