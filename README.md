@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Billy</h1>
+<h1 align="center">Hi, I'm Billy 👋</h1>
 <h3 align="center">Building the Future of E-Commerce 🚀</h3>
 
 - 💬 Ask me about **react, nextjs, javascript, shopify**
