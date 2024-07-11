@@ -4,6 +4,7 @@ const profile = {
   status: 'Building the future of e-commerce 🔨',
   city: 'Leicester',
   country: 'United Kingdom',
+  website: 'https://billynoyes.co.uk/',
   linkedin: 'https://www.linkedin.com/in/billynoyes/',
   role: 'Frontend Developer',
   skills: [
