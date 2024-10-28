@@ -1,7 +1,7 @@
 ```javascript
 const profile = {
   name: 'Billy Noyes',
-  status: 'Building the future of e-commerce 🔨',
+  status: 'Building the future of commerce 🔨',
   city: 'Leicester',
   country: 'United Kingdom',
   website: 'https://billynoyes.co.uk/',
