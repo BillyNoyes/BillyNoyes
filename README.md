@@ -6,13 +6,13 @@ const profile = {
   country: 'United Kingdom',
   website: 'https://billynoyes.co.uk/',
   linkedin: 'https://www.linkedin.com/in/billynoyes/',
-  role: 'Frontend Developer',
+  role: 'Demo Engineer',
   skills: [
-    'Liquid', 'JavaScript', 'TypeScript',
+    'Liquid', 'JavaScript', 'TypeScript', 'Polaris',
     'React', 'Next.js', 'Vue.js', 'Web Components',
     'Tailwind CSS', 'SCSS', 'GraphQL', 'Node.js',
     'Git'
   ],
-  learning: ['Supabase', 'AI', ...others]
+  learning: ['Gadget.dev', 'OpenAI API', ...others]
 };
 ```
