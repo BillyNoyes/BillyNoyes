@@ -13,6 +13,6 @@ const profile = {
     'Tailwind CSS', 'SCSS', 'GraphQL', 'Node.js',
     'Git'
   ],
-  learning: ['Gadget.dev', 'OpenAI API', ...others]
+  learning: ['Gadget.dev', 'AI', ...others]
 };
 ```
