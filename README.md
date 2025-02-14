@@ -9,7 +9,7 @@ const profile = {
   role: 'Demo Engineer',
   skills: [
     'Liquid', 'JavaScript', 'TypeScript', 'Polaris',
-    'React', 'Next.js', 'Vue.js', 'Web Components',
+    'React', 'Remix', 'Next.js', 'Vue.js', 'Web Components',
     'Tailwind CSS', 'SCSS', 'GraphQL', 'Node.js',
     'Git'
   ],
