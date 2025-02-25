@@ -12,7 +12,6 @@ const profile = {
     'React', 'Remix', 'Next.js', 'Vue.js', 'Web Components',
     'Tailwind CSS', 'SCSS', 'GraphQL', 'Node.js',
     'Git'
-  ],
-  learning: ['Gadget.dev', 'AI', ...others]
+  ]
 };
 ```
