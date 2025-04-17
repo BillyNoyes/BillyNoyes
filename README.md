@@ -7,6 +7,7 @@ const profile = {
   website: 'https://billynoyes.co.uk/',
   linkedin: 'https://www.linkedin.com/in/billynoyes/',
   role: 'Demo Engineer',
+  company: 'Shopify',
   skills: [
     'Liquid', 'JavaScript', 'Alpine.js', 'TypeScript', 'Polaris',
     'React', 'Remix', 'Next.js', 'Vue.js', 'Web Components',
