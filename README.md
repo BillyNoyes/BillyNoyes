@@ -12,7 +12,7 @@ const profile = {
     'Liquid', 'JavaScript', 'Alpine.js', 'TypeScript', 'Polaris',
     'React', 'Remix', 'Next.js', 'Vue.js', 'Web Components',
     'Tailwind CSS', 'SCSS', 'GraphQL', 'Node.js',
-    'Git'
+    'GSAP', 'Vite', 'Git', 'Claude Code', 'AI Agents', 'LLM APIs', 'Cursor'
   ]
 };
 ```
