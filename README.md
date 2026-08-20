@@ -1,5 +1,7 @@
-```javascript
-const profile = {
+<table>
+<tr>
+<td valign="top" width="64%">
+<pre><code class="language-javascript">const profile = {
   name: 'Billy Noyes',
   status: 'Building the future of commerce 🔨',
   city: 'London',
@@ -10,10 +12,15 @@ const profile = {
   company: 'Shopify',
   skills: [
     'Liquid', 'JavaScript', 'TypeScript', 'Hydrogen', 'Polaris',
-    'React', 'Remix', 'Next.js', 'Vue.js', 'Alpine.js', 'Web Components',
-    'Tailwind CSS', 'SCSS', 'GraphQL', 'Node.js', 'GSAP', 'Vite',
-    'Shopify CLI', 'Electron', 'Git',
+    'React', 'Remix', 'Next.js', 'Vue.js', 'Alpine.js',
+    'Web Components', 'Tailwind CSS', 'SCSS', 'GraphQL',
+    'Node.js', 'GSAP', 'Vite', 'Shopify CLI', 'Electron', 'Git',
     'Claude Code', 'pi', 'Cursor', 'AI Agents', 'LLM APIs', 'MCP'
   ]
-};
-```
+};</code></pre>
+</td>
+<td valign="top" width="36%" align="center">
+<img src="./assets/billy-ascii.png" width="360" alt="ASCII portrait of Billy Noyes">
+</td>
+</tr>
+</table>
